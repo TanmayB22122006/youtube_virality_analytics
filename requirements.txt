@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+vaderSentiment
+textblob
+google-api-python-client
+python-dotenv
+scipy
+streamlit
