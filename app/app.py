@@ -8,7 +8,7 @@ st.set_page_config(page_title="YouTube Virality Engine", layout="wide")
 df_tgt, df_feat = load_data()
 rf_model, encoders, feature_cols = train_model(df_tgt)
 
-st.title("🚀 YouTube Virality Analytics Dashboard")
+st.title(" YouTube Virality Analytics Dashboard")
 
 tab1, tab2, tab3 = st.tabs(["🔮 Live Prediction", "📖 Model Architecture", "📊 Category-Wise Deep Insights"])
 
